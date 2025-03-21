@@ -1,3 +1,1 @@
-🖐Merhaba ben Gürkan🖐
-💖Developerım💖
-💖Github üzerinden sizlere açık kaynaklı projeler veya bilgiler veriyorum.💖
+- Merhaba ben gürkan 🖐 developerım ve sizlere GitHub üzeriden bilgiler ve açık kaynaklı rojeler veriyorum.
